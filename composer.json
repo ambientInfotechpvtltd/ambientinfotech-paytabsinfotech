@@ -1,6 +1,6 @@
 {
   "name": "surendraambient01/ambientinfotech-paytabsinfotech",
-  "description": "A Magento 2 module that creates a new page",
+  "description": "A Magento 2 module of customized paytab extension.",
   "type": "magento2-module",
   "version": "2.1.0",
   "license": [
